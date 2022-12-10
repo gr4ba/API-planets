@@ -19,11 +19,10 @@ $ npm start
 
 | Node.js    |Express      | Nodemon | Core.js |PostgresSQL |
 |:----------:|:-----------:|:-------:|:------:|:---------: |
-|![][nodejs] |![][express] | ![][nodemon]|  ![][corejs]  | ![][postgres]          | 
-
+|![][nodejs] |![][express] | ![][nodemon]|  ![][corejs]  | ![][postgres] | 
 
 [nodejs]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png
 [express]: https://kinsta.com/wp-content/uploads/2022/04/express-1.png
 [nodemon]: https://static.javatpoint.com/blog/images/nodemon.png
-[corejs]: https://user-images.githubusercontent.com/2213682/146607186-8e13ddef-26a4-4ebf-befd-5aac9d77c090.png
+[corejs]: https://repository-images.githubusercontent.com/11481338/9f911778-bd91-488c-ac30-c4cb061b11c1
 [postgres]: https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_251be2af3ae607c45c14e816eaa1cf41/postgresql.png
