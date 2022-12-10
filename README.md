@@ -1,8 +1,8 @@
 <!-- HEADINGS -->
 # Pasos para ejecución
-1. Instalaremos **node modules**
+1. Instalaremos **node modules** con los paquetes necesarios
 ```powershell
-$ npm install
+$ npm install express pg nodemon cors
 ```
 2. Ahora ejecutaremos nuestro api
 ```powershell
