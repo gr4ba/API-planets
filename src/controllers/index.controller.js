@@ -1,11 +1,11 @@
 const { Pool } = require('pg');
 
 const pool = new Pool ({
-    host: 'containers-us-west-150.railway.app',
+    host: 'containers-us-west-143.railway.app',
     user: 'postgres',
-    password: 'h7s6xZ06vMkn8vcu5PDS',
+    password: 'KgIb37aghaEFXP7cfQTD',
     database: 'railway',
-    port: '7119'
+    port: '7891'
 });
 
 const getPlanetas = async (req,res) => {
